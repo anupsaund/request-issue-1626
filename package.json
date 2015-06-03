@@ -1,0 +1,22 @@
+{
+  "name": "request-issue-1626",
+  "version": "1.0.0",
+  "description": "Project showing issues with Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupsaund/request-issue-1626.git"
+  },
+  "dependencies":{
+    "request":"latest"
+  },
+  "author": "Anup Saund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anupsaund/request-issue-1626/issues"
+  },
+  "homepage": "https://github.com/anupsaund/request-issue-1626#readme"
+}
